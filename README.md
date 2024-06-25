@@ -1,5 +1,8 @@
 # Quantum Simulation Interface
 
+
+<img width="1111" alt="Screenshot 2024-06-24 at 5 36 14 PM" src="https://github.com/LearnQuantum/Quanta/assets/110571121/5438dc1d-3030-47d2-b86a-a2beedd8e07d">
+
 This project is built on Next.js and demonstrates a quantum annealing simulation interface. It leverages React hooks for state management and D3.js for dynamic data visualization.
 
 ## Project Overview
